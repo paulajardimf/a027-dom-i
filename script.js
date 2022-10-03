@@ -8,7 +8,6 @@ let fruta3 = document.getElementById("fruta-3")
 
 
 
-
 fruta1.innerHTML += frutas[0];
 fruta2.innerHTML += frutas[1];
 fruta3.innerHTML += frutas[2];
